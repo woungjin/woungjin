@@ -11,7 +11,7 @@
 
 # 프로젝트 </h2>
 ## Pet Togeter 
-![pet](https://user-images.githubusercontent.com/74219139/103889209-62524580-5129-11eb-9542-98ea94bc21db.PNG){:widht="100" height="200")
+<img width="150" src="https://user-images.githubusercontent.com/74219139/103889209-62524580-5129-11eb-9542-98ea94bc21db.PNG"></img>
 
 - - -
 | **Pet Togeter** | **DATE** | **Contents** | **개발** |
@@ -27,6 +27,3 @@
 4. Git을 통한 데이터 공유
 5. 
 6. 
-
-
-<img width="150" src="https://user-images.githubusercontent.com/74219139/103889209-62524580-5129-11eb-9542-98ea94bc21db.PNG"></img>

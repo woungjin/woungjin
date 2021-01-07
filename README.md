@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 |---|---|---|---|---| <br>
 | 이진웅 |   |   |   |   | <br>
 | 권대영 |   |   |   |   | <br>
-| <button type="button">위동건</button> |   |   |   |   | <br>
+| |   |   |   |   | <br>

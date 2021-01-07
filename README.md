@@ -11,7 +11,7 @@
 
 # 프로젝트 </h2>
 ## Pet Togeter 
-
+![pet](https://user-images.githubusercontent.com/74219139/103889209-62524580-5129-11eb-9542-98ea94bc21db.PNG)
 
 - - -
 | **Pet Togeter** | **DATE** | **Contents** | **개발** |
@@ -23,3 +23,5 @@
 ## 1. 기획
 
 </div>
+
+![pet](https://user-images.githubusercontent.com/74219139/103889209-62524580-5129-11eb-9542-98ea94bc21db.PNG)

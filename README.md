@@ -21,3 +21,6 @@ Here are some ideas to get you started:
   
 </div>
 
+<div aling=left>
+![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin&show_icons=true)
+</div>

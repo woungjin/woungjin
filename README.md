@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 
 ![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin&show_icons=true
 )
-
-https://img.shields.io/endpoint?url=<https://github.com/woungjin/JSPBasic>&afdsf<STYLE>

@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin&show_icons=true
 )
-<h2> Pet togeter </h2>
-|  기획 | 디자인 | 기능  | DB  |   |
-|---|---|---|---|---|
-| 이진웅 |   |   |   |   |
-| 권대영 |   |   |   |   |
-| <button type="button">위동건</button> |   |   |   |   |
+<h2> Pet togeter </h2> <br>
+|  기획 | 디자인 | 기능  | DB  |   | <br>
+|---|---|---|---|---| <br>
+| 이진웅 |   |   |   |   | <br>
+| 권대영 |   |   |   |   | <br>
+| <button type="button">위동건</button> |   |   |   |   | <br>

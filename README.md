@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 </div>
-<div align=left>
+<div align=center>
 ![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin&show_icons=true)
 </div>

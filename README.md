@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 ![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=woungjin)](https://solved.ac/kinetic27)

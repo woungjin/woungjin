@@ -15,9 +15,9 @@
 > ## __LINK__
 
 > + [**자바**](https://github.com/woungjin/JAVABasic.git)
->    > + [#실행단축키 + 변수선언](https://github.com/woungjin/JAVABasic/tree/master/src/day01)**
->    > + [#형변환 + 타입별크기 + 비교연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)**
->    > + [If문법 + Scanner생성 + Switch_case](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
+>    > + [#실행단축키 + 변수선언](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
+#>    > + [형변환 + 타입별크기 + 비교연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
+>    #> #[If문법 + Scanner생성 + Switch_case](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
 >    > + [For문법 + 이중For문](https://github.com/woungjin/JAVABasic/tree/master/src/day04/for_)
 
 

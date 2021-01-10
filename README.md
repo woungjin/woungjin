@@ -17,9 +17,9 @@
 > ## __LINK__
 - - -
 > + [__자바__](https://github.com/woungjin/JAVABasic.git)
->    > + [__기본단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
->    > + [__형변환 + 타입별크기 + 연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
->    > + [__If문법 + Scanner사용 + Switch_case__](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
+    > + [__기본단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
+    > + [__형변환 + 타입별크기 + 연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
+    > + [__If문법 + Scanner사용 + Switch_case__](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
 >    > + [__For문법 + 이중For문__](https://github.com/woungjin/JAVABasic/tree/master/src/day04/for_)
 >    > + [**Break문법 + 향상된For문 + Continue문법**](https://github.com/woungjin/JAVABasic/tree/master/src/day05)
 >    > + [__Array문법(delete,insert,update)__](https://github.com/woungjin/JAVABasic/tree/master/src/day06/array)

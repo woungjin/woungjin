@@ -20,4 +20,4 @@
 
 > ## __LINK__
 
-[자바] (https://github.com/woungjin/JAVABasic.git)
+[자바](https://github.com/woungjin/JAVABasic.git)

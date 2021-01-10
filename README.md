@@ -13,12 +13,15 @@
 
 
 > ## __LINK__
-
+- - -
 > + [__자바__](https://github.com/woungjin/JAVABasic.git)
->    > + [__실행단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
->    > + [형변환 + 타입별크기 + 비교연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
->    > [If문법 + Scanner생성 + Switch_case](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
->    > + [For문법 + 이중For문](https://github.com/woungjin/JAVABasic/tree/master/src/day04/for_)
+>    > + [__기본단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
+>    > + [__형변환 + 타입별크기 + 연산자](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
+>    > + [__If문법 + Scanner사용 + Switch_case__](https://github.com/woungjin/JAVABasic/tree/master/src/day03)
+>    > + [__For문법 + 이중For문__](https://github.com/woungjin/JAVABasic/tree/master/src/day04/for_)
+>    > + [**Break문법 + 향상된For문 + Continue문법**](https://github.com/woungjin/JAVABasic/tree/master/src/day05)
+>    > + [__Array문법(delete,insert,update)__](https://github.com/woungjin/JAVABasic/tree/master/src/day06/array)
+>    > + [__
 
 
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)

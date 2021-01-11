@@ -7,7 +7,7 @@
 ＊ [PetTogeter](https://github.com/woungjin/PetTogether.git)
 
  
-<img width="150" src="https://user-images.githubusercontent.com/74219139/104112803-7c14a800-5336-11eb-8326-9f69c35b41e0.PNG"> </img>
+<img width="150" src="https://user-images.githubusercontent.com/74219139/104112803-7c14a800-5336-11eb-8326-9f69c35b41e0.PNG">(https://github.com/woungjin/PetTogether.git) </img>
 
 
  

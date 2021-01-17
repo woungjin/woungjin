@@ -20,7 +20,7 @@
 >    > + [__For문법 + 이중For문__](https://github.com/woungjin/JAVABasic/tree/master/src/day04/for_)
 >    > + [**Break문법 + 향상된For문 + Continue문법**](https://github.com/woungjin/JAVABasic/tree/master/src/day05)
 >    > + [__Array문법(delete,insert,update)__](https://github.com/woungjin/JAVABasic/tree/master/src/day06/array)
-
+>    > + [__객체기초생성법__](https://github.com/woungjin/JAVABasic/tree/master/src/day08_Class)
  
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 

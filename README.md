@@ -32,6 +32,9 @@
 >    > + [__다형성 적용된 객체들의 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day10_public/poly2/Main.java)
 >    > + [__다형성 적용된 객체를 판별하는 instanceof 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day10_public/poly_instanceof/Main.java)
 >    > + [__Static 변수와 일반 변수의 차이__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/basic)
+>    > + [__Static 변수의 정적 초기화(생성자)방법__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/init)
+>    > + [__Static 메소드 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/method)
+>    > + [__Static 싱글톤 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day11_static/static_/singleton/MainClass.java)
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 

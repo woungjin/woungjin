@@ -1,4 +1,4 @@
-2021/02/06 Update
+##__2021/02/06 Update__
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
@@ -22,7 +22,16 @@
 >    > + [**Break문법 + 향상된For문 + Continue문법**](https://github.com/woungjin/JAVABasic/tree/master/src/day05)
 >    > + [__Array문법(delete,insert,update)__](https://github.com/woungjin/JAVABasic/tree/master/src/day06/array)
 >    > + [__객체기초생성법__](https://github.com/woungjin/JAVABasic/tree/master/src/day08_Class)
- 
+>    > + [__상속 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day09_extends/inherit/bad)
+>    > + [__오버로딩 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day09_extends/overloading/basic)
+>    > + [__오버라이딩 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day09_extends/overriding)
+>    > + [__Super 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day09_extends/super_)
+>    > + [__This 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day09_extends/this_/baisc)
+>    > + [__Setter, Getter 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day10_public/encap/good)
+>    > + [__오버라이딩시 다운캐스팅 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day10_public/poly/MainClass.java)
+>    > + [__다형성 적용된 객체들의 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day10_public/poly2/Main.java)
+>    > + [__다형성 적용된 객체를 판별하는 instanceof 사용법__](https://github.com/woungjin/JAVABasic/blob/master/src/day10_public/poly_instanceof/Main.java)
+>    > + [__Static 변수와 일반 변수의 차이__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/basic)
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 

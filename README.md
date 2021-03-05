@@ -33,7 +33,7 @@
 >    > + [__Static 변수의 정적 초기화(생성자)방법__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/init)
 >    > + [__Static 메소드 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/method)
 >    > + [__Static 싱글톤 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day11_static/static_/singleton)
-
+>    > + [__abstract(추상) 클래스 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_abs_inter/good)
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 

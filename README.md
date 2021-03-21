@@ -36,6 +36,15 @@
 >    > + [__abstract(추상) 클래스 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_abs_inter/good)
 >    > + [__인터페이스 클래스 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_abs_inter/inter_basic)
 >    > + [__추상+인터페이스 사용예제__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_abs_inter/inter_basic2)
+>    > + [__상수(static final)변수 사용예제__)(https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/constant)
+>    > + [__final변수 사용법__)(https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/field)
+>    > + [__final클래스 및 메소드 사용법__)(https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/method)
+>    > + [__try ~ catch예외의 종류 및 사용법__)(https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/trycatch)
+>    > + [__throws(try ~ catch)__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/throws_)
+>    > + [__직접 예외클래스를 만들어 사용함__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/myexception)
+>    > + [__trhow new(예외 생성하기)__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception2/throws_)
+>    > + [__★list의 함수들 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day14/collection/list)
+>    > + [__제네릭 클래스 선언의 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day14/generic/good2)
 >    > 
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 

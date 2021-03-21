@@ -39,6 +39,7 @@
 >    > + [__상수(static final)변수 사용예제__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/constant)
 >    > + [__final변수의 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/field)
 >    > + [__final클래스 및 메소드 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day12_final_/method)
+>    > + [__try ~ catch예외의 종류 및 사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/throws_)
 >    > + [__throws(try ~ catch)__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/throws_)
 >    > + [__직접 예외클래스를 만들어 사용함__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception/myexception)
 >    > + [__trhow new(예외 생성하기)__](https://github.com/woungjin/JAVABasic/tree/master/src/day13_exception2/throws_)

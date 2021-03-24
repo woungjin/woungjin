@@ -11,7 +11,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## __LINK__
-- - - - -
+- - - - - -
 > + [__자바__](https://github.com/woungjin/JAVABasic.git)
 >    > + [__기본단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
 >    > + [__형변환 + 타입별크기 + 연산자__](https://github.com/woungjin/JAVABasic/tree/master/src/day02)

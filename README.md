@@ -4,7 +4,7 @@
 
 > ## __프로젝트__
 [<img width="150" src="https://user-images.githubusercontent.com/74219139/104112803-7c14a800-5336-11eb-8326-9f69c35b41e0.PNG">](https://github.com/woungjin/PetTogether.git) </img> <br/>
-└> [**Click on me!!**](https://github.com/woungjin/PetTogether.git)__깃 링크__ </br>
+__깃링크__[**Click on me!!**](https://github.com/woungjin/PetTogether.git) </br>
 __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
  
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)

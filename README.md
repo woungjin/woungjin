@@ -4,7 +4,7 @@
 
 
 > ## __프로젝트__
-[<img width="150" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>
+[<img width="300" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>
 __깃링크__ : [**Click on me!!**](https://github.com/woungjin/PetTogether.git) </br>
 __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
  

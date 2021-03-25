@@ -59,5 +59,8 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    > + [__LinkedList 배열 함수들 사용법 (addFirst, addLast, size, poll등등)__](https://github.com/woungjin/JAVABasic/tree/master/src/day14_collection/list)
 >    > + [__HashMap<> 함수들 사용법 (put, get, remove등등)__](https://github.com/woungjin/JAVABasic/tree/master/src/day14_collection/map)
 >    > + [__HashSet<> TreeSet 함수들 사용법(add, size, iterator, hasNext)__](https://github.com/woungjin/JAVABasic/tree/master/src/day14_collection/set)
-> + [__CSS__](https://github.com/woungjin/JAVABasic.git)
+> + [__CSS__](https://github.com/woungjin/VSCODE_CSS)
+> + [__JSP__](https://github.com/woungjin/JSPBasic)
+> + [__JavaScript__](https://github.com/woungjin/Javascript)
+> 
 

@@ -66,7 +66,9 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    > + [__배열과 컬렉션을 함수형으로 처리하는 stream(람다를 활용)__](https://github.com/woungjin/JAVABasic/tree/master/src/day16_api/ramda/stream)
 >    > + [__정규표현 방식(Ex02참조)__](https://github.com/woungjin/JAVABasic/tree/master/src/day16_regex/pattern)
 >    > + [__쓰레드 및 Runnable객체 활용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day17_thread/runable)
->    > 
+>    >    > + [__JAVA_QUIZ__]
+>    >    > + [__if문 Quiz__](https://github.com/woungjin/JAVABasic/tree/master/src/Quiz_/if_)
+>    >    > 
 > + [__CSS__](https://github.com/woungjin/VSCODE_CSS)
 > + [__JSP__](https://github.com/woungjin/JSPBasic)
 > + [__JavaScript__](https://github.com/woungjin/Javascript)

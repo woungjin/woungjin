@@ -68,6 +68,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    > + [__쓰레드 및 Runnable객체 활용법__](https://github.com/woungjin/JAVABasic/tree/master/src/day17_thread/runable)
 >    >    > + [__JAVA_QUIZ__]
 >    >    > + [__if문 Quiz__](https://github.com/woungjin/JAVABasic/tree/master/src/Quiz_/if_)
+>    >    > + [__For문 Quiz__](https://github.com/woungjin/JAVABasic/tree/master/src/Quiz_/for_)
 >    >    > 
 > + [__CSS__](https://github.com/woungjin/VSCODE_CSS)
 > + [__JSP__](https://github.com/woungjin/JSPBasic)

@@ -12,7 +12,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 
 > ## __LINK__
 - - - - - -
-> + [__자바__](https://github.com/woungjin/JAVABasic.git)
+> + [__JAVA__](https://github.com/woungjin/JAVABasic.git)
 >    > + [__기본단축키 + 변수선언__](https://github.com/woungjin/JAVABasic/tree/master/src/day01)
 >    > + [__형변환 + 타입별크기 + 연산자__](https://github.com/woungjin/JAVABasic/tree/master/src/day02)
 >    > + [__If문법 + Scanner사용 + Switch_case__](https://github.com/woungjin/JAVABasic/tree/master/src/day03)

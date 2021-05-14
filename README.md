@@ -77,6 +77,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    >    > + 
 > + [__CSS__](https://github.com/woungjin/VSCODE_CSS)
 > + [__JSP__](https://github.com/woungjin/JSPBasic)
+>    > + [__블럭요소와 인라인 요소 분류__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/HTML/block.html)
 > + [__JavaScript__](https://github.com/woungjin/Javascript)
 
  

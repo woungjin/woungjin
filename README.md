@@ -90,8 +90,11 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    > + [__(기초)include 사용법 Main__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include._main.jsp)
 >    >    > └ [__(기초)include_header__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_header.jsp)
 >    >    > , [__(기초)include_footer__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_footer.jsp)
->    > + [__(기초)__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_footer.jsp)
->    > 
+>    > + [__(기초)List와 HashMap 만드는법 및 HashMap 출력 방법(Set ~ for)__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/list%2Chashmap.jsp)
+>    > + [__(문제)랜덤구구단 출력 예제__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/random_gugudan.jsp)
+>    > + [__(문제)List와 배열을 활용한 문제 예제__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_footer.jsp)
+>    > + [__(문제)list를 활용한 로또 출력__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/list_lotto.jsp)
+>    > + [__(문제)Set-HashSet을 활용한 로또 출력__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/set_lotto.jsp)
 > + [__JavaScript__](https://github.com/woungjin/Javascript)
 
  

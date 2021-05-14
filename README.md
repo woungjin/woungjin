@@ -91,7 +91,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    >    > └ [__(기초)include_header__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_header.jsp)
 >    >    > + [__(기초)include_footer__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_footer.jsp)
 >    > + 
->    > + [__(기초)__]
+>    > + [__(기초)__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/JSP/include_footer.jsp)
 > + [__JavaScript__](https://github.com/woungjin/Javascript)
 
  

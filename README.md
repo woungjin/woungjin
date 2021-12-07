@@ -1,7 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 
-
+__＊ 포트폴리오__
+[JAVA_PDF(학습).pdf](https://github.com/woungjin/woungjin/files/7669080/JAVA_PDF.pdf)
 
 > ## __프로젝트__
 [<img width="300" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>

@@ -2,6 +2,8 @@
 
 </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145205707-b67c9aee-4f62-4e65-85ee-fc54fff1ac68.gif"> </img>
+ 
+[![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## __포트폴리오__
 - - - - - -
@@ -18,8 +20,6 @@
 [<img width="300" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>
 __Project_GitHub링크__ : [**Click on me!!**](https://github.com/woungjin/PetTogether.git) </br>
 __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
- 
-[![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > ## __LINK__

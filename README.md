@@ -2,7 +2,7 @@
  
 
 > ## __포트폴리오__
-[JAVA_학습(PDF).pdf](https://github.com/woungjin/PetTogether/files/7672519/JAVA_PDF.pdf)
+[JAVA_학습(PDF)다운로드.pdf](https://github.com/woungjin/PetTogether/files/7672519/JAVA_PDF.pdf) </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG">
 </img>
 

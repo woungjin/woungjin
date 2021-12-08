@@ -4,13 +4,14 @@
 > ## __포트폴리오__
 
 <br/>
-JAVA_PDF(학습).pdf(https://github.com/woungjin/PetTogether/files/7672519/JAVA_PDF.pdf)
-<img width="500" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG"></img>
+[JAVA_PDF(학습).pdf](https://github.com/woungjin/PetTogether/files/7672519/JAVA_PDF.pdf)
+[<img width="500" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG">](https://github.com/woungjin/PetTogether/files/7672519/JAVA_PDF.pdf)
+</img>
 - - - - - -
 
 > ## __프로젝트__
 [<img width="300" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>
-__깃링크__ : [**Click on me!!**](https://github.com/woungjin/PetTogether.git) </br>
+__Project_GitHub링크__ : [**Click on me!!**](https://github.com/woungjin/PetTogether.git) </br>
 __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
  
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)

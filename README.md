@@ -5,8 +5,7 @@
 
 <br/>
 [JAVA_PDF(학습).pdf](https://github.com/woungjin/woungjin/files/7669080/JAVA_PDF.pdf)
-<br/>
-[<img width="300" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG">](https://github.com/woungjin/woungjin/files/7669080/JAVA_PDF.pdf)
+[<img width="500" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG">](https://github.com/woungjin/woungjin/files/7669080/JAVA_PDF.pdf)
 
 > ## __프로젝트__
 [<img width="300" src="https://user-images.githubusercontent.com/74219139/112298267-29fae600-8cda-11eb-80d8-70eb62a381ba.png">](https://github.com/woungjin/PetTogether.git) </img> <br/>

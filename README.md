@@ -14,6 +14,7 @@
 [이진웅_웹개발프로젝트(PDF)-다운로드.pdf](https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg) </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145130721-eb54dff8-4d07-460a-9822-6aec16bddeff.JPG">
 
+![JAVA_PDF-001](https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg)
 
 
 > ## __프로젝트__

@@ -11,7 +11,7 @@
  </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145128769-1b7e2baa-9a5e-4fb5-8a57-bbe46da4ab0c.JPG">
 </img> </br>
-[이진웅_웹개발프로젝트(PDF)-다운로드.pdf](https://github.com/woungjin/PetTogether/files/7672577/JINWOUNG_WebProject.pdf) </br>
+[이진웅_웹개발프로젝트(PDF)-다운로드.pdf](https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg) </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145130721-eb54dff8-4d07-460a-9822-6aec16bddeff.JPG">
 
 

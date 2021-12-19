@@ -7,7 +7,7 @@
 
 > ## __포트폴리오__
 - - - - - -
-[JAVA_(학습용)PDF_다운로드.pdf](https://github.com/woungjin/woungjin/files/7736399/JAVA_PDF.pdf)
+[JAVA_(학습용)PDF_다운로드.pdf](https://github.com/woungjin/woungjin/files/7740692/JAVA_PDF.pdf)
  </br>
  <img width="500" src="https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg">
 </img> </br>

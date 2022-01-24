@@ -6,11 +6,7 @@
 [![woungjin's github stats](https://github-readme-stats.vercel.app/api?username=woungjin)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## __목표__
-- - - - - -
-[TO_DO_다운로드.pdf](https://github.com/woungjin/WEB1/files/7799281/TO_DO.pdf)
- </br>
- <img width="500" src="https://user-images.githubusercontent.com/74219139/147880448-3d017c97-764d-4a82-b530-d0d72a07aa21.jpg">
-</img> </br>
+!
 
 
 > ## __포트폴리오__

@@ -92,6 +92,7 @@ __홈페이지 주소 :__ [펫투게더 바로가기](http://pettogether.pw/)
 >    >    > + [__getter & setter사용법__](https://github.com/woungjin/JAVABasic/tree/master/src/Quiz02/quiz12_getter_setter)
 >    >    > + 
 > + [__CSS__](https://github.com/woungjin/VSCODE_CSS)
+>    > + [__CSS 스타일의 선언 방법들(인라인,내&외부스타일)__](https://github.com/woungjin/VSCODE_CSS/blob/master/01%EB%B8%94%EB%9F%AD%EC%9A%94%EC%86%8C_%EC%8A%A4%ED%83%80%EC%9D%BC%EC%8B%9C%ED%8A%B8_%EC%84%A0%ED%83%9D%EC%9E%90/index02(%EC%8A%A4%ED%83%80%EC%9D%BC%EC%8B%9C%ED%8A%B8).html)
 > + [__JSP__](https://github.com/woungjin/JSPBasic)
 >    > + [__(기초)블럭요소와 인라인 요소 분류__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/HTML/block.html)
 >    > + [__(기초)이미지 설계 방법__](https://github.com/woungjin/JSPBasic/blob/master/WebContent/HTML/basic_img.html)

@@ -11,6 +11,10 @@
 
 > ## __포트폴리오__
 - - - - - -
+[이진웅_포트폴리오(이력서PDF)](https://github.com/woungjin/PetTogether/files/9143309/_.PDF.pdf)
+ </br>
+ <img width="500" src="https://user-images.githubusercontent.com/74219139/179811362-054df03c-d4a2-4cf3-9913-50f51e64ed94.JPG">
+</img> </br>
 [JAVA_(학습용)PDF_다운로드.pdf](https://github.com/woungjin/woungjin/files/7740692/JAVA_PDF.pdf)
  </br>
  <img width="500" src="https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg">

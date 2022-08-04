@@ -17,7 +17,7 @@
 </img> </br>
 [JAVA_(학습용)PDF_다운로드.pdf](https://github.com/woungjin/nomad_JavaScript/files/9256758/JAVA_PDF.pdf)
  </br>
- <img width="500" src="https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg">
+ <img width="500" src="https://user-images.githubusercontent.com/74219139/182767183-2f55e5dc-2bcd-4c61-b974-2f75f880fd0c.JPG">
 </img> </br>
 [이진웅_웹개발프로젝트(PDF)-다운로드.pdf](https://user-images.githubusercontent.com/74219139/146575122-5d1fe5e7-79d8-4d40-8336-76fdf0c93ce9.jpg) </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145130721-eb54dff8-4d07-460a-9822-6aec16bddeff.JPG">

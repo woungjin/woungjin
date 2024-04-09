@@ -1,4 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</br>
+[1. 검색광고의 이해.pdf](https://github.com/woungjin/woungjin/files/14920938/1.pdf)
+
 
 </br>
 <img width="500" src="https://user-images.githubusercontent.com/74219139/145205707-b67c9aee-4f62-4e65-85ee-fc54fff1ac68.gif"> </img>
